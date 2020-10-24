@@ -1,0 +1,59 @@
+a i {
+  margin-right: 7px;
+  color: green;
+}
+
+form i {
+  color: lightslategray;
+}
+p i {
+  color: darkorange;
+}
+#top {
+  margin-top: 0;
+  height: 1px;
+  background-color: darkorange;
+}
+.card {
+  background-color: rgb(248, 248, 248);
+}
+.card :hover {
+  background-color: white;
+}
+.head {
+  text-align: center;
+  margin-top: 0;
+  background-color: rgb(248, 248, 248);
+}
+
+.head li {
+  display: inline;
+}
+
+#cards {
+  text-align: center;
+  margin-top: 30px;
+}
+.card-img-top {
+  margin-left: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+#Category {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(248, 248, 248);
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+.footer-top li {
+  list-style-type: none;
+}
+#footer {
+  text-align: center;
+}
+#footer li {
+  display: inline;
+}
